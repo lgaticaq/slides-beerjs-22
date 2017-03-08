@@ -1,0 +1,16 @@
+#slide-18 {
+  background-image: url("img/lgatica.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 20%;
+}
+
+#huemul {
+  display: inline-block;
+  height: 64px;
+  width: 64px;
+}
+
+#huemul img {
+  height: auto;
+  width: 100%;
+}
